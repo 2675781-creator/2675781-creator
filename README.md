@@ -25,6 +25,9 @@
 - Diagnotiger un système, trouver le problème et élaborer une solution, ainsi que des mesure préventives.
 - Obtentions : 2 diplômes (Techniques des sytèmes informatiques - cybersécurité et réseautique en mode coopératif + Techniques des sytèmes informatiques en mode coopératif) avec distinction
 
+## Projets
+- Créer une API pour prédire l'échec des étudiants
+
 <!--
 **2675781-creator/2675781-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
